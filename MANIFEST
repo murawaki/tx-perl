@@ -1,0 +1,9 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Tx.xs
+t/Text-Trie-Tx.t
+lib/Text/Trie/Tx.pm
+META.yml                                 Module meta-data (added by MakeMaker)
